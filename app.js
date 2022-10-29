@@ -1,1 +1,1 @@
-require('./4-fs-sync-module');
+require('./5-fs-async-module');
